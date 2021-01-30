@@ -1,33 +1,133 @@
 {
     "bg": "https://images4.alphacoders.com/601/thumb-1920-601048.jpg",
-    "title": "Quiz CSS da Alura",
+    "title": "Quiz Códigos de acesso do No Man's Sky",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media2.giphy.com/media/1xNAAthG5SpPm82L4J/giphy.gif?cid=ecf05e479e7j2xk653jof1e7ovrr0xzctmtlc1pqzrp2lqdn&rid=giphy.gif",
+        "title": "4634 - 6344 - 3446 - ****",
+        "description": "**** * *** *******",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "4463",
+          "4634",
+          "6344"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://media1.giphy.com/media/1eEB7zlCmAuV7kKkUf/giphy.gif?cid=ecf05e47p3etlgn3yuinrhgqzgvgkwu5lt1mdx7n07uqk4sy&rid=giphy.gif",
+        "title": "1 - 3 - 4 - 7 - 11 - 18 - **",
+        "description": "****** ** ***** ***",
+        "answer": 1,
+        "alternatives": [
+          "30",
+          "29",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "image": "https://media1.giphy.com/media/dxb89cIlFErFlcPnbe/giphy.gif?cid=ecf05e47p3etlgn3yuinrhgqzgvgkwu5lt1mdx7n07uqk4sy&rid=giphy.gif",
+        "title": "2 - 4 - 12 - 48 - 240 - ****",
+        "description": "**** ** ****** ** *****",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+          "1440",
+          "1340",
+          "1540",
+          "1240"
+        ]
+      },
+      {
+        "image": "https://media3.giphy.com/media/fdzQX54W4IMNOOQxGp/giphy.gif?cid=ecf05e47p3etlgn3yuinrhgqzgvgkwu5lt1mdx7n07uqk4sy&rid=giphy.gif",
+        "title": "56 – 59 – 63 – 68 – 74 – **",
+        "description": "**** * ***** ** ***",
+        "answer": 2,
+        "alternatives": [
+          "77",
+          "79",
+          "81",
+          "83"
+        ]
+      },
+      {
+        "image": "https://media2.giphy.com/media/5Ut8pySvnZZhhZgGv7/giphy.gif?cid=ecf05e47w5otve9ynsyzzfqf297om5ahdtenivvpp1gnwtcv&rid=giphy.gif",
+        "title": "5040 – 720 – 120 – 24 – *",
+        "description": "* ********* ** ****** ****",
+        "answer": 3,
+        "alternatives": [
+          "8",
+          "4",
+          "12",
+          "6"
+        ]
+      },
+      {
+        "image": "https://media1.giphy.com/media/8cxJZt20SRrGRz0L5b/giphy.gif?cid=ecf05e474f1255ec1cf25260976651ba52b6552fff366d0b&rid=giphy.gif",
+        "title": "23 - 45 - 89 - 177 - ***",
+        "description": "****** **** ********* ***",
+        "answer": 1,
+        "alternatives": [
+          "186",
+          "353",
+          "417",
+          "229"
+        ]
+      },
+      {
+        "image": "https://assets.vg247.com/current/2016/06/no_mans_sky.gif",
+        "title": "3 - 5 - 8 - 13 - 21 - **",
+        "description": "** ***** * ******** *****",
+        "answer": 3,
+        "alternatives": [
+          "38",
+          "32",
+          "35",
+          "34"
+        ]
+      },
+      {
+        "image": "https://cdn.gamer-network.net/2017/articles/2017-08-11-11-45/2HFMSky___Imgur.gif",
+        "title": "1 - 5 - 3 - 7 - 5 - 9 - *",
+        "description": "******** ***** *** *******",
+        "answer": 1,
+        "alternatives": [
+          "8",
+          "7",
+          "9",
+          "6"
+        ]
+      },
+      {
+        "image": "https://th.bing.com/th/id/R1093b7dd0622d995678125ee28dbdcc5?rik=0XU1pjSypRbnUg&riu=http%3a%2f%2fstatic2.businessinsider.com%2fimage%2f53a35516ecad04c06c2093a9%2fno%2520man%27s%2520takeoff.gif&ehk=KXSHfyhuNWm1uaf52%2fO85fDimU3%2bdxs%2f%2bLJc9IT%2b7oU%3d&risl=1&pid=ImgRaw",
+        "title": "1702 - 7021 - 0217 - ****",
+        "description": "*** ***** ** *******",
+        "answer": 0,
+        "alternatives": [
+          "2170",
+          "1720",
+          "1702"
+        ]
+      },
+      {
+        "image": "https://i.kinja-img.com/gawker-media/image/upload/t_original/u5kyox6ykhmg1coqvnyx.gif",
+        "title": "2738 - 7382 - 3827 - ****",
+        "description": "**** * *** ****** ** ****** *****",
+        "answer": 2,
+        "alternatives": [
+           "3278",
+           "7238",
+           "8273"
         ]
       }
     ],
     "external": [
-      ""
+      "https://gintama-quiz.yuukiasuna00.vercel.app/",
+      "https://aleatorio-quiz.viniciud.vercel.app/",
+      "https://imersao-react-next-js.thaislsilveira.vercel.app/",
+      "https://1sec-quiz.victoroda.vercel.app/",
+      "https://shinquiz-git-main.renanshin.vercel.app/",
+      "https://aluraquiz-base.rodrigorrch.vercel.app/"
     ],
     "theme": {
       "colors": {
